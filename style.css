@@ -12,7 +12,7 @@
 
 body {
   background-color: var(--bg-color);
-  border: 2px solid chocolate;
+/*   border: 2px solid chocolate; */
   height: 100vh;
   font-family: "Kumbh Sans", sans-serif;
 }
